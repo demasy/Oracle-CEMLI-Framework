@@ -24,5 +24,15 @@ The CEMLI framework provides a structured approach to managing customizations to
 <br>
 
 ## Complexity Level
+The complexity level of CEMLI customizations can vary depending on the type of customization and the specific requirements of the organization. Here's a general overview of the complexity level of each type of customization:
+
+- **Configuration**: Configuration is typically the least complex type of customization, as it involves making changes to an Oracle application's settings and parameters using the built-in tools provided by the application. However, even with configuration, there can be complexity in the choices made during configuration, the number of options and workflows to consider, and the impact of changes on the overall system.
+- **Extension**: Extensions can be moderately complex depending on the functionality being added and the development platform being used. Developing an extension requires an understanding of the Oracle application's architecture and the programming skills to create the custom functionality.
+- **Modification**: Modifications are typically the most complex type of customization, as they involve changing the code or database schema of an Oracle application. This requires advanced programming skills and a deep understanding of the Oracle application's architecture. Modifications can be risky, as they can impact the stability and upgradeability of the core application.
+- **Localization**: Localization can range in complexity depending on the number of languages and regions being supported, the complexity of the legal and regulatory requirements, and the level of customization required to meet those requirements. It can involve translating the user interface, adapting workflows, and modifying reports to accommodate local requirements.
+- **Integration**: Integration can range in complexity depending on the systems being integrated and the level of data exchange required. Integrating with third-party software can involve working with different data formats, protocols, and security requirements, and may require custom development to establish the integration.
+
+Overall, the complexity level of CEMLI customizations depends on the specific requirements of the organization and the type of customization being performed. It is important to carefully evaluate the complexity and potential risks of each customization before proceeding, and to engage the necessary expertise and resources to ensure a successful outcome.
+
 
 <br>
