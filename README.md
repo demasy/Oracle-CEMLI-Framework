@@ -21,4 +21,8 @@ Here is an overview of the CEMLI framework:
 
 The CEMLI framework provides a structured approach to managing customizations to Oracle applications. By following the guidelines of the framework, organizations can ensure that their customizations are aligned with their business requirements and are properly integrated with the core application.
 
+<br>
 
+## Complexity Level
+
+<br>
