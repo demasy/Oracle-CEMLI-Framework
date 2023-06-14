@@ -85,4 +85,19 @@ Extensions made using the CEMLI framework are designed to be maintainable and up
 - Developing a custom form in Oracle Forms to capture additional information about customer orders.
 - Creating a custom workflow in Oracle Workflow to automate the approval process for purchase requisitions.
 
+<br>
+
+### Modification
+
+Modification is altering or customizing an existing Oracle application's functionality to meet an organization's specific requirements. It involves changing the application's underlying code, database structure, or user interface. Modifications may include adding new fields to a form, creating new reports, or changing the behavior of existing functions. It is important to note that modifications may impact the application's future upgrades, making it essential to carefully evaluate the impact of any changes before implementing them.
+
+#### Examples
+
+- Modifying the standard invoice validation process in Oracle E-Business Suite to include additional checks.
+- Changing the default inventory valuation method in Oracle Fusion Applications to align with specific accounting rules.
+- Adding custom code to Oracle Cloud SCM to automate order fulfillment.
+- Changing the default invoice numbering sequence in Oracle Receivables to meet specific business requirements.
+- Modifying the standard sales order validation process in Oracle Order Management to include additional checks.
+- Adding custom code to Oracle Purchasing to automate the vendor selection process.
+
 
