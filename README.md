@@ -168,3 +168,16 @@ Customizations that require some level of programming effort and changes to Orac
 - Modifying a seeded report to meet specific business needs.
 - Integrating with a third-party system using web services
 - Developing a new custom form with moderate complexity
+
+### Complex
+
+Customizations that involve significant changes to Oracle standard functionality and require extensive programming effort, potentially impacting the application's behavior, data model, or performance.
+
+#### Examples
+
+- Modifying core application functionality, such as changing the way the system calculates tax
+- Developing a new custom module or application
+- Upgrading a heavily customized system to a new release of Oracle E-Business Suite
+- Customizing the application's data model, such as adding new tables or modifying existing ones
+- Developing complex integrations with multiple systems or complex business rules
+
