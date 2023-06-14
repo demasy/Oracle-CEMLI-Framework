@@ -111,3 +111,22 @@ The Localization aspect of the CEMLI framework involves customizing an Oracle ap
 - Configuring Oracle E-Business Suite to support local tax laws in India.
 - Modifying Oracle Cloud HCM to display dates in the DD/MM/YYYY format for a European customer.
 - Translating the user interface of Oracle Fusion Applications into Spanish for a Latin American market
+
+<br>
+
+### Integration
+
+The Integration part of the CEMLI framework involves connecting an Oracle application with other software systems to enable data exchange and process automation. This may include integrating with third-party software, legacy systems, or other Oracle applications.
+
+Integration customizations can range from simple data transfers between systems to complex workflows involving multiple applications. This may involve developing interfaces using standard technologies such as web services or creating custom code to integrate with specific systems.
+
+The goal of integration customizations is to improve the efficiency of business processes by automating data exchange and eliminating manual data entry. It can also improve data accuracy and consistency by enabling real-time updates between systems.
+
+
+#### Examples
+
+- Integrating Oracle E-Business Suite with a third-party CRM system to share customer data
+- Connecting Oracle Cloud ERP with an external payment gateway for processing credit card payments
+- Integrating Oracle Cloud HCM with a background check provider to automate employee verification.
+- Integrating Oracle E-Business Suite with a third-party shipping carrier to automate shipping.
+- Connecting Oracle Purchasing with an external vendor management system to share vendor data.
