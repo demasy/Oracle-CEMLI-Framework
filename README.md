@@ -66,5 +66,23 @@ Configuration in the CEMLI Framework refers to adjusting an Oracle application's
 - Defining a new organization in Oracle Inventory Management to manage inventory at a new location.
 - Configuring a new payment term in Oracle Payables to support payment for a new vendor.
 
+<br>
+
+### Extension
+
+The extension part of the CEMLI framework involves adding new features or functions to an Oracle application to meet an organization's specific business requirements. This typically involves developing new code by modifying or creating new code from scratch.
+
+Extensions can be implemented using various development tools like Oracle Application Framework (OAF), Oracle Forms, or Oracle Reports. Extensions can add new functionality to an application, such as custom workflows, new reports, or additional fields to capture data.
+
+Extensions made using the CEMLI framework are designed to be maintainable and upgradeable, meaning that they can be easily modified or updated when new releases of the Oracle application become available. This ensures that customizations do not become obsolete and can continue to provide value to the organization over time.
+
+#### Examples
+
+- Adding a custom report to Oracle E-Business Suite to display order information in a specific format
+- Developing a custom web page in Oracle Application Express to allow customers to submit service requests
+- Creating a custom workflow in Oracle Cloud HCM to automate the onboarding process for new employees
+- Adding a new custom report in Oracle General Ledger to display financial information in a specific format.
+- Developing a custom form in Oracle Forms to capture additional information about customer orders.
+- Creating a custom workflow in Oracle Workflow to automate the approval process for purchase requisitions.
 
 
