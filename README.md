@@ -51,5 +51,20 @@ The history of **Oracle CEMLI** dates back to the early days of Oracle's develop
 - Localization
 - Integration
 
+<br>
+
+### Configuration
+
+Configuration in the CEMLI Framework refers to adjusting an Oracle application's settings and parameters to align with an organization's business requirements. This type of customization typically involves setting up user roles and permissions, defining approval workflows, and configuring accounting rules. It focuses on modifying an application's setup or configuration settings to meet specific business needs, such as changing default language settings or customizing the user interface. Using the Configuration approach, organizations can tailor the application to their specific requirements while minimizing the risk of disrupting the underlying system's stability and integrity.
+
+#### Examples
+
+- Setting up a new responsibility in Oracle E-Business Suite
+- Configuring a new printer for printing invoices in Oracle Fusion Applications
+- Modifying the default currency in Oracle Cloud ERP
+- Setting up a new employee in Oracle HRMS with a new job and position.
+- Defining a new organization in Oracle Inventory Management to manage inventory at a new location.
+- Configuring a new payment term in Oracle Payables to support payment for a new vendor.
+
 
 
