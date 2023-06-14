@@ -156,3 +156,15 @@ Customizations that involve minimal changes to Oracle standard functionality do 
 - Changing a message or prompt on a form
 - Adding a new value to a list of values (LOV)
 - Changing a descriptive flex-field label or value set
+
+### Moderate
+
+Customizations that require some level of programming effort and changes to Oracle standard functionality but do not significantly alter the underlying application's behavior or data model.
+
+#### Examples
+
+- Creating a new custom concurrent program
+- Developing a custom workflow process
+- Modifying a seeded report to meet specific business needs.
+- Integrating with a third-party system using web services
+- Developing a new custom form with moderate complexity
