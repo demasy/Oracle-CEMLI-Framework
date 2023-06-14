@@ -100,4 +100,14 @@ Modification is altering or customizing an existing Oracle application's functio
 - Modifying the standard sales order validation process in Oracle Order Management to include additional checks.
 - Adding custom code to Oracle Purchasing to automate the vendor selection process.
 
+<br>
 
+### Localization
+
+The Localization aspect of the CEMLI framework involves customizing an Oracle application to meet specific local or regional requirements. This may include adding support for local languages or currencies, complying with local tax regulations, and adapting the application to local business practices. By localizing an Oracle application, organizations can ensure that the software meets their specific needs and that their employees can use it effectively, regardless of location.
+
+#### Examples
+
+- Configuring Oracle E-Business Suite to support local tax laws in India.
+- Modifying Oracle Cloud HCM to display dates in the DD/MM/YYYY format for a European customer.
+- Translating the user interface of Oracle Fusion Applications into Spanish for a Latin American market
