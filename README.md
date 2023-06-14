@@ -36,6 +36,20 @@ The history of **Oracle CEMLI** dates back to the early days of Oracle's develop
 
 **The CEMLI framework** continues to evolve as new technologies emerge and Oracle expands its software offerings. It is a vital tool for organizations that need to customize their Oracle applications to meet their unique business requirements while minimizing the risk of system disruptions and maintaining the integrity of their core applications.
 
+<br>
+
+## Types of Customizations
+
+**The CEMLI framework** encompasses five types of customizations that can be made to Oracle applications. These types are:
+
+**The CEMLI framework** provides a structured approach to managing customizations to Oracle applications. By following the framework’s guidelines, organizations can ensure that their customizations are aligned with their business requirements and are appropriately integrated with the core application.
+
+### The CEMLI framework 
+- Configuration
+- Extension
+- Modification
+- Localization
+- Integration
 
 
 
