@@ -144,3 +144,15 @@ Each of these customizations requires a different approach and skill set. The CE
 The Complexity Guideline is a key aspect of the Oracle CEMLI framework, which defines a set of criteria for classifying customizations based on their complexity. The guideline helps organizations assess the effort required to implement customization and plan for the necessary resources and budget accordingly.
 
 The Complexity Guideline defines three levels of complexity: **Simple**, **Moderate**, and **Complex**.
+
+### Simple
+
+Customizations that involve minimal changes to Oracle standard functionality do not require significant development effort and can be easily implemented using standard configuration tools.
+
+#### Examples
+
+- Adding a new responsibility to a user profile
+- Enabling a new feature or module that is not yet in use
+- Changing a message or prompt on a form
+- Adding a new value to a list of values (LOV)
+- Changing a descriptive flex-field label or value set
