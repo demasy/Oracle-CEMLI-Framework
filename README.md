@@ -136,3 +136,11 @@ The goal of integration customizations is to improve the efficiency of business 
 ### Conclusion
 
 Each of these customizations requires a different approach and skill set. The CEMLI framework provides guidelines for managing each type of customization while maintaining consistency and repeatability across the application. By following the CEMLI framework, organizations can make necessary changes to their Oracle applications without disrupting the underlying system's stability and integrity.
+
+<br>
+
+## The CEMLI Complexity Guideline
+
+The Complexity Guideline is a key aspect of the Oracle CEMLI framework, which defines a set of criteria for classifying customizations based on their complexity. The guideline helps organizations assess the effort required to implement customization and plan for the necessary resources and budget accordingly.
+
+The Complexity Guideline defines three levels of complexity: **Simple**, **Moderate**, and **Complex**.
