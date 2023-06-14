@@ -181,3 +181,8 @@ Customizations that involve significant changes to Oracle standard functionality
 - Customizing the application's data model, such as adding new tables or modifying existing ones
 - Developing complex integrations with multiple systems or complex business rules
 
+<br>
+
+### Conclusion
+
+Using the Complexity Guideline, organizations can better plan and prioritize customizations, allocate resources appropriately, and manage the associated risks and costs. It also helps organizations maintain the stability and reliability of the Oracle E-Business Suite while ensuring that customizations meet business requirements.
