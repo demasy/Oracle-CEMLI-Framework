@@ -201,3 +201,7 @@ The CEMLI framework provides a structured approach to customizing Oracle applica
 ### Reduced risk of system disruptions
 The CEMLI framework provides guidelines for customizing Oracle applications, documenting customizations, and testing before deployment. By following the CEMLI framework, organizations can reduce the risk of system disruptions caused by untested customizations.
 
+### Easier upgrades
+The CEMLI framework provides a standard approach to customizing Oracle applications that is consistent and repeatable. This consistency and repeatability make it easier for organizations to upgrade their Oracle applications. They can quickly identify and migrate customizations to the new version of the application, reducing the time and effort required to upgrade.
+
+
