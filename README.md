@@ -206,3 +206,6 @@ The CEMLI framework provides a standard approach to customizing Oracle applicati
 
 ### Better alignment with business requirements
 The CEMLI framework provides guidelines for customizing Oracle applications to meet an organization's specific needs while maintaining the core application's integrity and stability. This alignment ensures that the customized Oracle applications meet the business requirements and deliver the expected value to the organization.
+
+### Improved collaboration and communication
+The CEMLI framework provides a common language and structure for discussing and documenting customizations. This common language and structure improve collaboration and communication between the technical and business teams. They can better understand the customizations and their impact on the system.
