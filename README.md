@@ -294,3 +294,8 @@ Implement proper change management procedures to ensure that customizations are 
 By following these guidelines, organizations can reduce the risk of system disruptions and ensure that customizations are implemented correctly, aligned with business requirements, and maintainable over time.
 
 
+<br>
+
+###### Suggestions & Issues
+> If you find any issue or have a great idea in mind, please create an issue on <a href="https://github.com/demasy/Oracle-CEMLI-Framework/issues">GitHub</a>.
+
