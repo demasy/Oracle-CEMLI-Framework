@@ -266,3 +266,31 @@ Customizing Oracle applications using the CEMLI framework requires following spe
 - Impact analysis
 - Change Management
 
+### Documentation
+
+Proper documentation is essential for tracking customizations and ensuring they can be easily managed and maintained. Documentation should include a detailed description of the customization, its objectives, scope, and impact on the system.
+
+### Testing
+Testing ensures that customizations work as expected and do not negatively impact system performance. It is essential to perform thorough testing before deploying customizations to the production environment.
+
+### Version Control
+
+Version control ensures that customizations are accurately tracked, managed, and updated over time. Proper version control procedures should be implemented to ensure that changes are appropriately tracked, reviewed, and approved.
+
+### Adherence to coding standards
+
+Adherence to coding standards ensures that customizations are consistent and follow best practices, making it easier to maintain and update customizations in the future.
+
+### Impact analysis
+Conduct an impact analysis to identify the potential impact of customizations on the system, including any dependencies or integrations.
+
+### Change Management
+Implement proper change management procedures to ensure that customizations are reviewed, approved, and tested before deployment to the production environment.
+
+<br>
+
+### Conclusion
+
+By following these guidelines, organizations can reduce the risk of system disruptions and ensure that customizations are implemented correctly, aligned with business requirements, and maintainable over time.
+
+
