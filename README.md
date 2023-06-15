@@ -1,4 +1,4 @@
-![image](https://github.com/demasy/Oracle-CEMLI-Framework/assets/39886429/48b4758d-9541-4278-8c65-00162b394305)# The CEMLI Framework
+# The CEMLI Framework
 
 <br>
 
