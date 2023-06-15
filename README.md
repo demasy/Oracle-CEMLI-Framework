@@ -1,4 +1,4 @@
-# The CEMLI Framework
+![image](https://github.com/demasy/Oracle-CEMLI-Framework/assets/39886429/48b4758d-9541-4278-8c65-00162b394305)# The CEMLI Framework
 
 <br>
 
@@ -292,5 +292,17 @@ Implement proper change management procedures to ensure that customizations are 
 ### Conclusion
 
 By following these guidelines, organizations can reduce the risk of system disruptions and ensure that customizations are implemented correctly, aligned with business requirements, and maintainable over time.
+
+<br>
+
+## CEMLI Conclusion
+
+The CEMLI framework is a structured approach to customizing Oracle applications, consisting of five types of customizations: Configuration, Extension, Modification, Localization, and Integration. Organizations can apply the CEMLI framework to tailor Oracle applications to their needs while maintaining the core application's integrity and stability.
+
+The CEMLI framework’s benefits include reducing the risk of system disruptions, making upgrades more straightforward, and better aligning Oracle applications with business requirements. Organizations can also benefit from increased consistency and repeatability in customizations, allowing them to make necessary changes without disrupting the underlying systems.
+
+To apply the CEMLI framework, organizations should follow guidelines for each customization type, document customizations, and test them thoroughly before deployment. Best practices include prioritizing configurations over modifications, minimizing the use of custom code, and maintaining compatibility with future upgrades.
+
+Challenges in applying the CEMLI framework include determining the appropriate complexity level for customizations, ensuring compatibility with third-party applications, and managing the customizations over time. However, by following best practices and leveraging the benefits of the CEMLI framework, organizations can achieve a tailored Oracle application that meets their unique business requirements while maintaining its stability and integrity.
 
 
