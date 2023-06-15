@@ -254,3 +254,15 @@ Evaluate the effectiveness of the customization in meeting business requirements
 ### Conclusion
 By following these steps, organizations can effectively apply the CEMLI framework to customize Oracle applications to meet their business requirements. The key to successful implementation is careful planning, proper documentation, and ongoing maintenance and evaluation.
 
+<br>
+
+## Applying Guidelines
+Customizing Oracle applications using the CEMLI framework requires following specific guidelines to ensure that customizations are implemented correctly and do not cause disruptions to the core application. Here are some guidelines to consider:
+
+- Documentation
+- Testing
+- Version control
+- Adherence to coding standards
+- Impact analysis
+- Change Management
+
